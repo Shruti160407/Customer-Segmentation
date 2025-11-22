@@ -1,1 +1,2 @@
 # Customer-Segmentation
+Dataset link: https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering?resource=download
